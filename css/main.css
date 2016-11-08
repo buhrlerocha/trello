@@ -1,0 +1,48 @@
+/* Inserta tu código aquí */
+
+.fondo{
+	background-color: #026aa7;
+	height: 70px;
+	text-align: center;
+}
+h1{
+	font-size: 30px;
+	color:#80b4d3;
+}
+.rojo{
+	background-color: red;
+	border: 1px solid black;
+	border-radius: 5px;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.verde{
+	background-color: green;
+	border: 1px solid black;
+	border-radius: 5px;
+	font-size: 20px;
+	display: block;
+}
+.cuadrado{
+	border: 1px solid black;
+	border-radius: 5px;
+	font-size: 20px;
+}
+.plomo{
+	background-color: #ACAAAA;
+	width: 280px;
+	padding: 10px;
+}
+
+
+.contenedor{
+	background-color: #CDCACA;
+	width: 280px;
+	text-align: center;
+}
+
+.listas{
+	margin: 10px;
+	display: inline-block;
+}
